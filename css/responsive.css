@@ -1,0 +1,39 @@
+@media (min-width: 320px)and (max-width: 543px){
+	.header_top .left{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.header_top .socialicons{
+		float: left;
+		margin-left: 8%;
+	}
+	.header .nav{
+		display: none;
+	}
+	.header .logo{
+		width: 100%;
+		text-align: center;
+	}
+
+	
+}
+
+@media (min-width: 544px)and (max-width: 767px){
+	.header_top .left{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.header_top .socialicons{
+		float: left;
+		margin-left: 8%;
+	}
+	.header .nav{
+		display: none;
+	}
+	.header .logo{
+		width: 100%;
+		text-align: center;
+	}
+
+	
+}
