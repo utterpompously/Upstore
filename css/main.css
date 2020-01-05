@@ -917,8 +917,7 @@ body{
     padding-bottom: 50px;
 }
 .bparties .bbox{
-    float: left;
-}
+    float: left}
 .businessp .bparties{
     width: 800px;
     margin: 0 auto;
@@ -960,7 +959,7 @@ body{
     padding: 12px 20px;
     padding-top: 13px;
     border: 1px solid #05233B;
-    border-right: 0;  
+    margin-bottom: 20px;
    
 }
 .signform input[type=submit] {
@@ -2346,7 +2345,6 @@ body{
     
     }*/
    
- 
 
 }
  
@@ -2355,11 +2353,11 @@ body{
     .header .nav{
           display: none;
     }
-       .header .logo {
-    float: left;
-    width: 100%;
-    text-align: center;
-    margin-top: 15px;
+    .header .logo {
+        float: left;
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
     }
 
     .header_top .socialicons{
@@ -2386,8 +2384,22 @@ body{
     .newsblog .resp .lowerpart{
         margin-top: 5px;
     }
-     .contactpage .box3 .type{
-        margin-right: 20px;
+    .contactpage .box3 .type{
+        margin-left: 30px;
+
+    }
+    .contactpage .box{
+        font-size: 15px;
+    }
+    .contactpage .box2 p{
+       
+       font-size: 15px;
+    }
+    .contactpage .box3 .type a{
+       font-size: 15px;
+    }
+    .contactpage .box4{
+       font-size: 15px;
     }
 }
  
@@ -2442,6 +2454,6 @@ body{
  
  
 /*
-::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
  
